@@ -12,6 +12,7 @@
     "node": "^15.4.0",
     "react-bootstrap": "^1.4.3",
     "react-modal": "^3.12.1",
+    "react-scripts": "^4.0.1",
     "redux": "^4.0.5",
     "use-magic-link": "^1.1.1"
   },
