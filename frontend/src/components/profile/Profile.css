@@ -1,0 +1,51 @@
+.avatar {
+  display: flex;
+  justify-content: center;
+}
+
+.imagesUpload {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin: auto;
+  margin-top: 5px;
+  margin-left: 213px;
+}
+
+.uploadSubmit {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+  margin-top: 5px;
+}
+
+.profilePic {
+  display: block;
+  justify-content: center;
+  margin: auto;
+}
+
+.Tribe {
+  display: flex;
+  justify-content: center;
+}
+
+.tribeSubmit {
+  display: flex;
+  margin: auto;
+  margin-top: 5px;
+  justify-content: center;
+}
+
+.links {
+  display: inline-flex;
+  text-align: center;
+  margin: 20px 0 0;
+  justify-content: space-evenly;
+  padding: 10px 0;
+}
+
+a {
+  display: inline-flex;
+}

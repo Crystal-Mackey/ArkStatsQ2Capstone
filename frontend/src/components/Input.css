@@ -1,0 +1,30 @@
+a {
+  display: flex;
+  margin: 2px;
+  justify-content: space-evenly;
+  padding: 8px;
+}
+
+.fields {
+  display: block;
+  justify-content: center;
+  margin: auto;
+  padding: auto;
+}
+
+.card-title.h5 {
+  display: block;
+  justify-content: center;
+  margin: auto;
+  padding: 5px;
+}
+
+.form-label {
+  display: block;
+  margin: auto;
+}
+
+.form-group {
+  display: block;
+  margin: auto;
+}

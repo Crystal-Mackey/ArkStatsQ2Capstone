@@ -1,0 +1,22 @@
+p {
+  display: flex;
+  color: blue;
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 550px;
+}
+
+h2 {
+  display: flex;
+  color: red;
+  justify-content: center;
+}
+
+.button {
+  display: flex;
+  color: black;
+  border: 1px solid black;
+  position: absolute;
+  margin-top: 400px;
+  margin-left: 640px;
+}

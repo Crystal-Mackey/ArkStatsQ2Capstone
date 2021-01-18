@@ -1,0 +1,33 @@
+div.extractor-headline {
+  display: flex;
+  flex-direction: column;
+}
+div.extractor-card {
+  width: 800px;
+}
+
+div.stat-input.card {
+  display: flex;
+  width: 40%;
+}
+
+div.card-deck {
+  width: 75%;
+}
+
+div.extractor-card {
+  display: flex;
+  flex-direction: row;
+}
+
+div.input.card-deck {
+  width: 25%;
+}
+
+div.stat-output.card-deck {
+  width: 25%;
+}
+
+div.locker.card-deck {
+  width: 10%;
+}

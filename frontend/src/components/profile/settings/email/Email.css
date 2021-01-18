@@ -1,0 +1,42 @@
+.form-input-btn {
+  display: block;
+  justify-content: center;
+  margin: auto;
+}
+
+.current-form-inputs {
+  display: block;
+  margin: auto;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+.current-label {
+  display: block;
+  margin: auto;
+  margin-bottom: 3px;
+}
+
+.current-input {
+  display: block;
+  margin: auto;
+}
+
+.new-form-inputs {
+  display: block;
+  margin: auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+.new-label {
+  display: block;
+  margin: auto;
+  margin-bottom: 3px;
+}
+
+.new-input {
+  display: block;
+  margin: auto;
+}
